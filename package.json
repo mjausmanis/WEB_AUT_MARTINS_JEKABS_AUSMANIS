@@ -1,0 +1,22 @@
+{
+  "name": "web_aut_martins_jekabs_ausmanis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjausmanis/WEB_AUT_MARTINS_JEKABS_AUSMANIS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjausmanis/WEB_AUT_MARTINS_JEKABS_AUSMANIS/issues"
+  },
+  "homepage": "https://github.com/mjausmanis/WEB_AUT_MARTINS_JEKABS_AUSMANIS#readme",
+  "devDependencies": {
+    "cypress": "^9.6.1"
+  }
+}
